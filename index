@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+  
+
+<html>
+	<head>
+		<title>モンスターハンターRise</title>
+
+		<link rel="stylesheet" href="style.css">
+
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Reggae+One&display=swap" rel="stylesheet">	
+	</head>
+
+
+	<body>	
+		<p id="title01"><b>モンスターハンター　ライズ</b></p>
+		<p id="title02">公式サイトはこちら<a href="https://www.capcom.co.jp/monsterhunter/rise/">CAPCOMモンスターハンターライズ　公式サイト</a>のページ</p>
+		
+		<article id="waku02">
+		
+				<video id="waku3"src="movie/MHR.mp4" width="804" height="480"></video>
+
+				 <img id="waku3" src="image/nc78950.png" width="804" height="480">
+
+		</article>
+		</body>
+		
+
+		
